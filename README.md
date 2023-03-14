@@ -1,6 +1,8 @@
 # Artificial-Neural-Network 
 
 ## Customer Churn project
+
+This proect has been extracted from an udemy machine leanring course: https://www.udemy.com/share/101Wci/
 The data has been derived from a bank with branches across Europe. The bank has observed customer behaviour over a period of time and has gathered some data on their customers. The obejctive of the project is to build a model that identifies meaningful correlation of the features and predicts if the customer is likely to leave (churn) or stay with the bank.
 
 The following describes the features of the dataset;
