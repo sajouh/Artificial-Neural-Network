@@ -5,8 +5,10 @@ The data has been derived from a bank with branches across Europe. The bank has 
 
 The following describes the features of the dataset;
 
-CustomerId- the unique identifier of each customer; 
+CustomerId- the unique identifier of each customer
+
 Surname- The last name of the customer 
+
 Creditscore- rates a consumer's creditworthiness
 Geography- county where the customer is 
 Gender- gender of the customer 
